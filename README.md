@@ -9,4 +9,11 @@ In this repository you will find a series of Golang examples.
 
 <a href="https://github.com/agespido/Golang/blob/main/2-Variables.go">2. Variable declaration and initialization</a>
 
-<b>To be continued...</b>
+<a href="https://github.com/agespido/Golang/blob/main/3-InputKeyboard.go">3. Numeric and text inputs from keyboard</a>
+
+<a href="https://github.com/agespido/Golang/blob/main/4-Conditions.go">4. If-else and Switch conditions</a>
+
+To be continued...
+You can also contribute to this repository with your own examples.
+
+<b><i>If you found this repository useful, don't forget to ⭐️ it.</i></b>
