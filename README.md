@@ -5,14 +5,15 @@
 In this repository you will find a series of Golang examples.
 
 ## Examples:
-<a href="https://github.com/agespido/Golang/blob/main/1-HelloWorld.go">1. HelloWorld</a>
-
-<a href="https://github.com/agespido/Golang/blob/main/2-Variables.go">2. Variable declaration and initialization</a>
-
-<a href="https://github.com/agespido/Golang/blob/main/3-InputKeyboard.go">3. Numeric and text inputs from keyboard</a>
-
-<a href="https://github.com/agespido/Golang/blob/main/4-Conditions.go">4. If-else conditions and Switch statement</a>
-
+<ol>
+<li><a href="https://github.com/agespido/Golang/blob/main/examples/HelloWorld.go">HelloWorld</a></li>
+<li><a href="https://github.com/agespido/Golang/blob/main/examples/Variables.go">Variable declaration and initialization</a></li>
+<li><a href="https://github.com/agespido/Golang/blob/main/examples/InputKeyboard.go">Numeric and text inputs from keyboard</a></li>
+<li><a href="https://github.com/agespido/Golang/blob/main/examples/Conditions.go">If-else conditions</a></li>
+<li><a href="https://github.com/agespido/Golang/blob/main/examples/Switch.go">Switch statement</a></li>
+<li><a href="https://github.com/agespido/Golang/blob/main/examples/ForLoops.go">For loops</a></li>
+<li><a href="https://github.com/agespido/Golang/blob/main/examples/WhileLoops.go">'While' loops</a></li>
+</ol>
 To be continued...
 You can also contribute to this repository with your own examples.
 
