@@ -11,7 +11,7 @@ In this repository you will find a series of Golang examples.
 
 <a href="https://github.com/agespido/Golang/blob/main/3-InputKeyboard.go">3. Numeric and text inputs from keyboard</a>
 
-<a href="https://github.com/agespido/Golang/blob/main/4-Conditions.go">4. If-else and Switch conditions</a>
+<a href="https://github.com/agespido/Golang/blob/main/4-Conditions.go">4. If-else conditions and Switch statement</a>
 
 To be continued...
 You can also contribute to this repository with your own examples.
