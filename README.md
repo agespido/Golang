@@ -18,3 +18,6 @@ To be continued...
 You can also contribute to this repository with your own examples.
 
 <b><i>If you found this repository useful, don't forget to ⭐️ it.</i></b>
+
+<a href="buymeacoffee.com/?via=agespido" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
