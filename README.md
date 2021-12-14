@@ -14,6 +14,7 @@ In this repository you will find a series of Golang examples.
 <li><a href="https://github.com/agespido/Golang/blob/main/examples/ForLoops.go">For loops</a></li>
 <li><a href="https://github.com/agespido/Golang/blob/main/examples/WhileLoops.go">'While' loops</a></li>
 <li><a href="https://github.com/agespido/Golang/blob/main/examples/Functions.go">Functions</a></li>
+<li><a href="https://github.com/agespido/Golang/blob/main/examples/Arrays.go">Arrays</a></li>
 </ol>
 To be continued...
 You can also contribute to this repository with your own examples.
