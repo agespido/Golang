@@ -17,3 +17,5 @@
 # Other
 tests
 ejer*
+.DS_Store
+Icon[^M]
